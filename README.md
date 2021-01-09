@@ -1,2 +1,2 @@
-# KMA-M1-a-KMA-SDP
+# KMA/M1
 Matematická analýza 1
